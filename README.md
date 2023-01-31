@@ -21,7 +21,7 @@ My Setup:
 - SSD: Aorus 500Gb Gen4 M.2 NVMe 5Gb/s R 2.5Gb/s W ;
 - PowerSupply: Corsair CX650 80Plus Bronze ;
 - Case: Redragon WheelJack RGB ;
-- Mouse: Logitech g203 ;
+- Mouse: Logitech G203 ;
 - Keyboard: Redragon K607 Switch Redragon Brown ;
 - Mousepad: Logitech G840 ;
 - Headphone: Asus Rog Cetra II CorE ;
