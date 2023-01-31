@@ -17,8 +17,8 @@ My Setup:
 - MotherBoard: Gigabyte Aorus B550 Elite v2 ;
 - Water Cooler: CM ML120L V2 RGB ;
 - Memory: XPG D45 16Gb (2x8) 3200Mhz CL16 ;
-- Disc: Aorus SSD 500Gb Gen4 M.2 NVMe 5Gb/s R 2.5Gb/s W ;
-      HD WD 500Gb 2.5" ;
+- HD: WD 500Gb 2.5" ;
+- SSD: Aorus 500Gb Gen4 M.2 NVMe 5Gb/s R 2.5Gb/s W ;
 - PowerSupply: Corsair CX650 80Plus Bronze ;
 - Case: Redragon WheelJack RGB ;
 - Mouse: Logitech g203 ;
