@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 -------------------------------------------------------------
 My Setup:
 
-Processor: AMD Ryzen 7 5800x 8/16 3.8Ghz ;
+Processor: AMD Ryzen 7 5800x 8/16 3.8Ghz ;\n
 VideoCard: Gigabyte GTX 970 G1 Gaming 4Gb ;
 MotherBoard: Gigabyte Aorus B550 Elite v2 ;
 Water Cooler: CM ML120L V2 RGB ;
