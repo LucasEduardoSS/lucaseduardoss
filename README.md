@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, welcome to my profile, here y'll find some of what i've been studing for the past 4 years, which include some personal projects, notes from coursers and graduation classes. I aim to become a computer systems engineer, although i haven't decided exatly which carrer path to follow. I'm also a certified building technitian by SENAI and computer engineering student at UNINTER trying to not get crazy while work as an intern in the mean time.
+Hi, welcome to my profile, here y'll find some of what i've been studing for the past 4 years, which include some personal projects, notes from coursers and graduation classes. I aim to become a computer systems engineer, although i haven't decided exatly which carrer path to follow. I'm also a certified building technitian by SENAI and computer engineering student at UNINTER.
 
 <details open>
 <summary>Preferred Languages</summary><br/>
