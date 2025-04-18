@@ -1,6 +1,7 @@
-## Hello there
+## Hi
 
-Hi, welcome to my profile, here y'll find some of what i've been studing for the past 4 years, which include some personal projects, notes from coursers and graduation classes. I aim to become a computer systems engineer, although i haven't decided exatly which carrer path to follow. I'm also a certified building technitian by SENAI and computer engineering student at UNINTER.
+Welcome to my profile, here y'll find some of what i've been studing for the past 4 years, which include some personal projects, notes from coursers and graduation classes. I'm curretly 
+ a computer engineering student at UNINTER and i aim to become a computer systems enginner.
 
 ---
 > Math is the language of the universe. So the more equations you know, the more you can converse with the universe.
