@@ -1,6 +1,7 @@
 ## Hi
 
 Welcome, here y'll find some of what i've been studing for the past few years, like personal projects, notes from coursers and graduation classes.
+![Banner](./2026-05-09_18-55-48.gif)
 
 ---
 > Math is the language of the universe. So the more equations you know, the more you can converse with the universe.
