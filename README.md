@@ -1,6 +1,7 @@
 ## Hi
 
-Welcome, here y'll find some of what i've been studing for the past few years, like personal projects, notes from coursers and graduation classes.
+Welcome buddy, here you will find some of what i've been studing for the past few years, like personal projects, notes from coursers and graduation classes.
+
 ![Banner](./tentativa-9999.gif)
 
 ---
