@@ -4,7 +4,7 @@ Welcome buddy, here you will find some of what i've been studing for the past fe
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,python,java,js,ts,tailwind,visualstudio,vs" />
   </a>
 </p>
 
