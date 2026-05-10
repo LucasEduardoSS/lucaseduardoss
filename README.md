@@ -4,6 +4,8 @@ Welcome buddy, here you will find some of what i've been studing for the past fe
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+---
+
 ![Banner](./tentativa-9999.gif)
 
 ---
