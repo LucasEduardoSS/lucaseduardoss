@@ -2,6 +2,8 @@
 
 Welcome buddy, here you will find some of what i've been studing for the past few years, like personal projects, notes from coursers and graduation classes.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ![Banner](./tentativa-9999.gif)
 
 ---
