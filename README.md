@@ -3,6 +3,7 @@
 Welcome buddy, here you will find some of what i've been studing for the past few years, like personal projects, notes from coursers and graduation classes.
 
 <p align="center">
+  Familiar technologies: 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,mysql,c,python,django,java,js,ts,tailwind,visualstudio,vscode,pycharm,eclipse,postman,octave,blender,autocad,arduino" />
   </a>
