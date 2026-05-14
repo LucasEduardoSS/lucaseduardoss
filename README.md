@@ -4,7 +4,7 @@ Welcome buddy, here you will find some of what i've been studing for the past fe
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,mysql,c,python,django,java,js,ts,tailwind,visualstudio,vscode,pycharm,eclipse,postman,octave,blender,autocad,arduino&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=git,docker,mysql,c,python,django,java,js,ts,tailwind,threejs,visualstudio,vscode,pycharm,eclipse,postman,octave,blender,autocad,arduino&perline=10"/>
   </a>
 </p>
 
