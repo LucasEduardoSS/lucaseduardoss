@@ -1,12 +1,12 @@
 ## Hi
 
-You might be wordering what kind of nerdy things i hide here, but as disappointing it may sound, I'm not that smart enough to create miraculous firmware or complex software, very much to the contrary. Most of what i've put on here are very simple projects, usualy built with python, other than some notes from courses or tecnical guides i raed throughout my studies and experimentations. 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,mysql,c,python,django,java,js,ts,tailwind,threejs,visualstudio,vscode,pycharm,eclipse,postman,octave,blender,autocad,arduino&perline=10"/>
   </a>
 </p>
+
+You might be wordering what kind of nerdy things i hide here, but as disappointing it may sound, I'm not that smart enough to create miraculous firmware or complex software, very much to the contrary. Most of what i've put on here are very simple projects, usualy built with python, other than some notes from courses or tecnical guides i raed throughout my studies and experimentations. 
 
 ---
 
