@@ -1,6 +1,6 @@
 ## Hi
 
-Welcome buddy, here you will find some of what i've been studing for the past few years, like personal projects, notes from coursers and graduation classes.
+You may be asking yourself what kind of nerdish things i hide here, but as disapointing it may sound, i'm not that smart enough to create miraculous firmware or complex software, very much to the contrary. Most of what i've put on here are very simple projects, usualy built with python, other than some notes from courses or tecnical guides i raed throughout my studies and experimentations. 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -9,6 +9,8 @@ Welcome buddy, here you will find some of what i've been studing for the past fe
 </p>
 
 ---
+
+As one my favorite topics on eletrical enginering, the behavior of alternated current is ilustrated in the following animation. it is for me, one of the most complex topics i had to study through my graduation, although sertanly, placed in the top interesting ones. As a matter of fact, this equation, also called idenitity of euler, is used to solve problems, before handled with integral and diferencial calculus in the time domain, to much simpler ones in the frequency domain. By the way, if wasn't for it's discovery, we problably woundn't be able to handle power ours massive cities today.
 
 ![Banner](./tentativa-9999.gif)
 
