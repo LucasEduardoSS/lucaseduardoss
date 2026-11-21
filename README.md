@@ -1,6 +1,6 @@
 ## Hi
 
-You may be asking yourself what kind of nerdish things i hide here, but as disapointing it may sound, i'm not that smart enough to create miraculous firmware or complex software, very much to the contrary. Most of what i've put on here are very simple projects, usualy built with python, other than some notes from courses or tecnical guides i raed throughout my studies and experimentations. 
+You might be wordering what kind of nerdy things i hide here, but as disappointing it may sound, I'm not that smart enough to create miraculous firmware or complex software, very much to the contrary. Most of what i've put on here are very simple projects, usualy built with python, other than some notes from courses or tecnical guides i raed throughout my studies and experimentations. 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,14 +10,14 @@ You may be asking yourself what kind of nerdish things i hide here, but as disap
 
 ---
 
-As one my favorite topics on eletrical enginering, the behavior of alternated current is ilustrated in the following animation. it is for me, one of the most complex topics i had to study through my graduation, although sertanly, placed in the top interesting ones. As a matter of fact, this equation, also called idenitity of euler, is used to solve problems, before handled with integral and diferencial calculus in the time domain, to much simpler ones in the frequency domain. By the way, if wasn't for it's discovery, we problably woundn't be able to handle power ours massive cities today.
+As one of my favorite topics on eletrical engineering, the behavior of alternating current is ilustrated in the following animation. It was for me, one of the most complex topics i had to study throughout my graduation, although certainly, placed in the top interesting ones. As a matter of fact, this equation, also called idenitity of euler, is used to solve problems, before handled with integral and diferencial calculus in the time domain, to much simpler ones in the frequency domain. By the way, if wasn't for it's discovery, we problably woundn't be able to power ours massive cities today.
 
 ![Banner](./tentativa-9999.gif)
 
 ---
 > Math is the language of the universe. So the more equations you know, the more you can converse with the universe.
 
-— Neil Degresse Tyson
+— Neil deGrasse Tyson
 
 <!---The background color is `#ffffff` for light mode and `#000000` for dark mode.
 My [repositories](https://github.com/LucasEduardoSS?tab=repositories)
